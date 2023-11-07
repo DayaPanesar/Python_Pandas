@@ -6,7 +6,7 @@ Attached are five Jupyter Notebooks highlighting my ability to use pandas in Pyt
 
 # Getting Started
 
-File Order and Contents:
+## File Order and Contents:
 
 **PandaSeries Beginner**
 - Creating series from Python collections
